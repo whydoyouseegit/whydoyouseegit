@@ -40,24 +40,6 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### `~/projects`
-
-```text
-.
-├── repomap/         # Local repository explorer
-├── portfolio-cms/   # Personal website & custom CMS
-├── persona-badge/   # Custom hardware badge
-└── dig-down/        # Mobile idle mining game
-```
-
-**[RepoMap](https://github.com/whydoyouseegit/repomap)** — A local desktop tool for exploring and understanding code repositories.
-
-**Portfolio CMS** — Personal portfolio with a custom content management system.
-
-**Persona Badge** — An experimental hardware project combining PCB design, electronics and UI.
-
-**DIG DOWN** — A mobile idle mining game built with TypeScript and HTML5 Canvas.
-
 ### `~/github-stats`
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whydoyouseegit&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000)
