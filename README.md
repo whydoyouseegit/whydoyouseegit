@@ -40,12 +40,12 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### `~/github-stats`
+<!-- ### `~/github-stats`
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whydoyouseegit&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whydoyouseegit&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000)
-
+-->
 ### `~/connect`
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/whydoyousee)
